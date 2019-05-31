@@ -1,0 +1,3 @@
+name: "PureBans"
+main: "ovh.quiquelhappy.mcplugins.purebans.listener.main"
+version: "1.0"

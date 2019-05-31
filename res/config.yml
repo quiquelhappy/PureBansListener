@@ -1,0 +1,13 @@
+mysql:
+
+  # DATABASE CONNECTION
+
+  direction: "localhost"
+  port: "3306"
+  database: "game"
+  SSL: false
+
+  # DATABASE CREDENTIALS
+
+  username: "server"
+  password: "Wow, Amazing Password"
